@@ -9,16 +9,17 @@ H4X0R News app was created in SwiftUI to keep the users up-to-date on the news c
 
 ## Screenshot
 
-|        Screen         |       iPhone 12 Pro       |       MacOS       |
-|:---------------------:|:---------------------:|:--------------------:|
-| Main|Darkmode<img src= Documentation/H4X0R_IOS.gif>|Darkmode<img src= Documentation/H4X0R_MacOS.gif>
+|       iPhone 12 Pro       |       MacOS       |
+|:---------------------:|:--------------------:|
+|<img src= Documentation/H4X0R_IOS.gif>|<img src= Documentation/H4X0R_MacOS.gif>
 
 
 ## Source Code
-![alt text][Sourcecode1]
-![alt text][Sourcecode2]
-[Sourcecode1]: Documentation/sourcecode1.png
-[Sourcecode1]: Documentation/sourcecode2.png
+|       ContentView.Swift       |       DetailView.Swift       |
+|:---------------------:|:--------------------:|
+|<img src= Documentation/sourcecode1.png>|
+<img src= Documentation/sourcecode2.png>
+
 ## What I learned building this app
 
 * Create an app with functionality on SwiftUI.

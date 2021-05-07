@@ -15,9 +15,11 @@ H4X0R News app was created in SwiftUI to keep the users up-to-date on the news c
 
 
 ## Source Code
-|       ContentView.Swift       |       DetailView.Swift       |
-|:---------------------:|:--------------------:|
+|       ContentView.Swift       |
+|:---------------------:|
 |<img src= Documentation/sourcecode1.png>|
+|       DetailView.Swift       |
+|:--------------------:|
 <img src= Documentation/sourcecode2.png>
 
 ## What I learned building this app

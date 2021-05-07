@@ -11,9 +11,8 @@ H4X0R News app was created in SwiftUI to keep the users up-to-date on the news c
 
 |        Screen         |       iPhone 12       |       iPhone 8       |
 |:---------------------:|:---------------------:|:--------------------:|
-| Main|![alt text][iphone12]|![alt text][macos]
-[iphone12]: Documentation/H4X0R_IOS.gif
-[macos]: Documentation/H4X0R_MacOS.gif
+| Main|![alt text][<img src= Documentation/H4X0R_IOS.gif>]|![alt text][<img src= Documentation/H4X0R_MacOS.gif>]
+
 
 ## Source Code
 ![alt text][Sourcecode1]

@@ -23,11 +23,10 @@ H4X0R News app was created in SwiftUI to keep the users up-to-date on the news c
 
 ## What I learned building this app
 
-* Create an app with functionality on SwiftUI.
-* More practice creating layouts.
-* Work with spacers and padding.
-* Create Subviews with properties that can change.
-* Learn about how SwiftUI manages State.
+* Learn to work with SwiftUI Lists and the Identifiable Protocol.
+* Use a Navigation View to navigate between the List and a detail view.
+* Advanced State management using the Observer Design Pattern.
+* Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in my app.
 
 
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
